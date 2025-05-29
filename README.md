@@ -9,4 +9,4 @@ This project mplemented simple and multiple linear regression models to predict 
 * Interpreted the coefficients
 * Performed prediction
 * Plotted regression line
-  All the above steps were done for simple and multiple linear regression
+  \nAll the above steps were done for simple and multiple linear regression
