@@ -2,7 +2,7 @@
 
 This project mplemented simple and multiple linear regression models to predict house prices based on various features.
 
-# Tasks Completed
+### Tasks Completed
 * Loaded the dataset
 * Split the data into train and test data sets
 * Trained the model
